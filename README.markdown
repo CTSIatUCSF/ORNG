@@ -1,1 +1,1 @@
-# Check the [ORNG documentation] at [https://github.com/CTSIatUCSF/ORNG/wiki]
+# Read the [ORNG documentation](https://github.com/CTSIatUCSF/ORNG/wiki) at [https://github.com/CTSIatUCSF/ORNG/wiki](https://github.com/CTSIatUCSF/ORNG/wiki)
